@@ -1,0 +1,540 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+APP_DATA_POINT	app.c	86;"	d	file:
+APP_DEBUG	app.c	25;"	d	file:
+APP_DEFAULT_PORT	app.c	20;"	d	file:
+APP_ERROR	app.c	22;"	d	file:
+APP_HEADER_LENGTH	app.c	85;"	d	file:
+APP_HEADER_POINT	app.c	87;"	d	file:
+APP_HEADER_TYPE_CLOSE	app.c	83;"	d	file:
+APP_HEADER_TYPE_CONNECT	app.c	82;"	d	file:
+APP_HEADER_TYPE_DATA	app.c	80;"	d	file:
+APP_HEADER_TYPE_NEW	app.c	81;"	d	file:
+APP_INFO	app.c	24;"	d	file:
+APP_LISTEN_PORT	app.c	19;"	d	file:
+APP_MAX_LENGTH	app.c	418;"	d	file:
+APP_WARN	app.c	23;"	d	file:
+AQUASENT_BUFFER_SIZE	aquasent.c	14;"	d	file:
+AQUASENT_CONFIG_BAUD	aquasent.c	18;"	d	file:
+AQUASENT_CONFIG_GATEWAY	aquasent.c	29;"	d	file:
+AQUASENT_CONFIG_IP_ADDR	aquasent.c	25;"	d	file:
+AQUASENT_CONFIG_MAC_ADDR	aquasent.c	31;"	d	file:
+AQUASENT_CONFIG_MTU	aquasent.c	23;"	d	file:
+AQUASENT_CONFIG_NAME	aquasent.c	21;"	d	file:
+AQUASENT_CONFIG_NETMASK	aquasent.c	27;"	d	file:
+AQUASENT_CONFIG_PORT	aquasent.c	16;"	d	file:
+AQUASENT_DEBUG	aquasent.c	37;"	d	file:
+AQUASENT_DEFAULT_BAUD	aquasent.c	19;"	d	file:
+AQUASENT_DEFAULT_GATEWAY	aquasent.c	30;"	d	file:
+AQUASENT_DEFAULT_IP_ADDR	aquasent.c	26;"	d	file:
+AQUASENT_DEFAULT_MAC_ADDR	aquasent.c	32;"	d	file:
+AQUASENT_DEFAULT_MTU	aquasent.c	24;"	d	file:
+AQUASENT_DEFAULT_NAME	aquasent.c	22;"	d	file:
+AQUASENT_DEFAULT_NETMASK	aquasent.c	28;"	d	file:
+AQUASENT_DEFAULT_PORT	aquasent.c	17;"	d	file:
+AQUASENT_ERROR	aquasent.c	34;"	d	file:
+AQUASENT_INFO	aquasent.c	36;"	d	file:
+AQUASENT_WARN	aquasent.c	35;"	d	file:
+ATYP_DOMAIN	app.c	34;"	d	file:
+ATYP_IPV4	app.c	33;"	d	file:
+ATYP_IPV6	app.c	35;"	d	file:
+BUFFER_SIZE	core.c	9;"	d	file:
+CC	Makefile	/^CC = gcc -c$/;"	m
+CMD_BIND	app.c	31;"	d	file:
+CMD_CONNECT	app.c	30;"	d	file:
+CMD_HHTXD_HEADER	aquasent.c	758;"	d	file:
+CMD_HHTXD_HEADER_LENGTH	aquasent.c	759;"	d	file:
+CMD_UPD	app.c	32;"	d	file:
+CONFIG_BUFFER_SIZE	config.c	10;"	d	file:
+CONFIG_TABLE_SIZE	config.c	8;"	d	file:
+CORE_DEBUG	core.c	14;"	d	file:
+CORE_ERROR	core.c	11;"	d	file:
+CORE_INFO	core.c	13;"	d	file:
+CORE_SEND_NOTICE	core.c	16;"	d	file:
+CORE_WARN	core.c	12;"	d	file:
+DEBUG	Makefile	/^DEBUG = -g -Wall$/;"	m
+DEFAULT_CONFIG_FILE	config.c	6;"	d	file:
+DEFAULT_LOG_FILE	log.c	7;"	d	file:
+DEVICE_DEBUG	device.c	26;"	d	file:
+DEVICE_ERROR	device.c	23;"	d	file:
+DEVICE_FLAG_BROADCAST	device.h	10;"	d
+DEVICE_FLAG_DHCP	device.h	11;"	d
+DEVICE_FLAG_ETHARP	device.h	12;"	d
+DEVICE_FLAG_UP	device.h	9;"	d
+DEVICE_INFO	device.c	25;"	d	file:
+DEVICE_STATE_READ_AVAILABLE	device.h	14;"	d
+DEVICE_STATE_WRITE_AVAILABLE	device.h	15;"	d
+DEVICE_WARN	device.c	24;"	d	file:
+EVENT_DEBUG	event.c	14;"	d	file:
+EVENT_ERROR	event.c	11;"	d	file:
+EVENT_FLAG_ACTIVE	event.h	10;"	d
+EVENT_FLAG_ERROR	event.h	13;"	d
+EVENT_FLAG_READ	event.h	11;"	d
+EVENT_FLAG_WRITE	event.h	12;"	d
+EVENT_INFO	event.c	13;"	d	file:
+EVENT_WARN	event.c	12;"	d	file:
+IS_ALPHABET	aquasent.c	326;"	d	file:
+IS_CMD_CHAR	aquasent.c	329;"	d	file:
+IS_COMMA	aquasent.c	324;"	d	file:
+IS_CR	aquasent.c	327;"	d	file:
+IS_CR	config.c	65;"	d	file:
+IS_DOLLAR	aquasent.c	323;"	d	file:
+IS_HEX	aquasent.c	332;"	d	file:
+IS_LF	aquasent.c	328;"	d	file:
+IS_LF	config.c	66;"	d	file:
+IS_NUMBER	aquasent.c	325;"	d	file:
+IS_SHARP	config.c	64;"	d	file:
+IS_SPACE	config.c	62;"	d	file:
+IS_VCHAR	aquasent.c	331;"	d	file:
+IS_VCHAR	config.c	63;"	d	file:
+LD	Makefile	/^LD = gcc$/;"	m
+LOG_BUFFER_SIZE	log.c	9;"	d	file:
+LOG_MESSAGE	log.c	46;"	d	file:
+LOG_TIME_FORMAT	log.c	47;"	d	file:
+MAC_BROCAST_ADDRESS	mac.c	7;"	d	file:
+MAC_HEADER_LENGTH	mac.h	8;"	d
+MAC_PROTOCOL_ID	mac.h	6;"	d
+METHOD_DEFAULT	app.c	28;"	d	file:
+METHOD_ERROR	app.c	29;"	d	file:
+MODULE_APP	message.h	8;"	d
+MODULE_CORE	message.h	4;"	d
+MODULE_DEVICE	message.h	6;"	d
+MODULE_EVENT	message.h	5;"	d
+MODULE_PROTOCOL	message.h	7;"	d
+MSG_ADD_EVENT	message.h	10;"	d
+MSG_APP_CAN_READ	message.h	25;"	d
+MSG_APP_CAN_WRITE	message.h	26;"	d
+MSG_APP_DATA	message.h	29;"	d
+MSG_APP_RECEIVE	message.h	33;"	d
+MSG_CAN_READ	message.h	19;"	d
+MSG_CAN_WRITE	message.h	20;"	d
+MSG_CIRCULAR_BUFFER_SIZE	message.c	8;"	d	file:
+MSG_DEBUG	message.c	15;"	d	file:
+MSG_DELETE_EVENT	message.h	11;"	d
+MSG_DEVICE_CAN_READ	message.h	22;"	d
+MSG_DEVICE_CAN_WRITE	message.h	23;"	d
+MSG_DEVICE_DATA	message.h	28;"	d
+MSG_DEVICE_RECEIVE	message.h	31;"	d
+MSG_DISABLE_READ_EVENT	message.h	13;"	d
+MSG_DISABLE_WRITE_EVENT	message.h	15;"	d
+MSG_ENABLE_READ_EVENT	message.h	12;"	d
+MSG_ENABLE_WRITE_EVENT	message.h	14;"	d
+MSG_ERROR	message.c	12;"	d	file:
+MSG_INFO	message.c	14;"	d	file:
+MSG_SOME_EVENT_HAPPEN	message.h	16;"	d
+MSG_STACK_RECEIVE	message.h	32;"	d
+MSG_WAIT_EVENT_HAPPEN	message.h	17;"	d
+MSG_WARN	message.c	13;"	d	file:
+PTC_DEBUG	protocol.c	15;"	d	file:
+PTC_ERROR	protocol.c	12;"	d	file:
+PTC_INFO	protocol.c	14;"	d	file:
+PTC_SEND_NOTICE	protocol.c	17;"	d	file:
+PTC_WARN	protocol.c	13;"	d	file:
+REP_ADDR_NOT_SUPPORTED	app.c	45;"	d	file:
+REP_CMD_NOT_SUPPORTED	app.c	44;"	d	file:
+REP_CONNECTE_NOT_ALLOW	app.c	39;"	d	file:
+REP_CONNECTION_REFUSED	app.c	42;"	d	file:
+REP_GENREAL_FAILURE	app.c	38;"	d	file:
+REP_HOST_UNREACHABLE	app.c	41;"	d	file:
+REP_NETWORK_UNREACHABLE	app.c	40;"	d	file:
+REP_SUCCEEDED	app.c	37;"	d	file:
+REP_TTL_EXPIRED	app.c	43;"	d	file:
+SOCKS_PROXY_HOST	client.py	/^SOCKS_PROXY_HOST = "127.0.0.1"$/;"	v
+SOCKS_PROXY_PORT	client.py	/^SOCKS_PROXY_PORT = 34567$/;"	v
+SOCKS_VERSION	app.c	27;"	d	file:
+TICK_PERIOD	event.c	21;"	d	file:
+TOTAL_HEADER_LENGTH	app.c	417;"	d	file:
+USEC_TO_MSEC	event.c	162;"	d	file:
+_APPLICATION_H_	app.h	2;"	d
+_CONFIG_H_	config.h	2;"	d
+_CORE_H_	core.h	2;"	d
+_DEIVCE_H_	device.h	2;"	d
+_EVENT_H_	event.h	2;"	d
+_HASH_H_	hash.h	2;"	d
+_LOG_H_	log.h	2;"	d
+_MAC_H_	mac.h	2;"	d
+_MESSAGE_H_	message.h	2;"	d
+_PROTOCOL_H_	protocol.h	2;"	d
+_QUEUE_H_	queue.h	2;"	d
+_UNS_PACKET_H_	packet.h	2;"	d
+addr	app.c	/^        uint32_t addr;$/;"	m	struct:socks_request_s	file:
+addr	app.c	/^        uint32_t addr;$/;"	m	struct:socks_response_s	file:
+ap_hash	hash.c	/^unsigned int ap_hash(char *key)$/;"	f
+app	core.h	/^        app_ctl_t           *app;$/;"	m	struct:core_s
+app	packet.h	/^        app_t    *app;$/;"	m	struct:packet_s
+app_add	app.c	/^int app_add(app_t *app)$/;"	f
+app_check_write_queue	app.c	/^static int app_check_write_queue()$/;"	f	file:
+app_close	app.c	/^static int app_close(app_t *app)$/;"	f	file:
+app_connect	app.c	/^static int app_connect(int fd)$/;"	f	file:
+app_ctl	app.c	/^static app_ctl_t app_ctl;$/;"	v	file:
+app_ctl_s	app.h	/^struct app_ctl_s {$/;"	s
+app_ctl_t	app.h	/^typedef struct app_ctl_s app_ctl_t;$/;"	t	typeref:struct:app_ctl_s
+app_exit	app.c	/^int app_exit()$/;"	f
+app_find_by_fd	app.c	/^static app_t *app_find_by_fd(int fd)$/;"	f	file:
+app_hdr_s	app.c	/^struct app_hdr_s {$/;"	s	file:
+app_hdr_t	app.c	/^typedef struct app_hdr_s app_hdr_t;$/;"	t	typeref:struct:app_hdr_s	file:
+app_init	app.c	/^int app_init()$/;"	f
+app_input	app.c	/^static int app_input(event_t *ev)$/;"	f	file:
+app_input_fn	app.h	/^typedef int (*app_input_fn)(app_t *app);$/;"	t
+app_list	app.c	/^static queue_t *app_list;$/;"	v	file:
+app_output	app.c	/^static int app_output(event_t *ev)$/;"	f	file:
+app_output_finish	app.c	/^static int app_output_finish(packet_t *pkg)$/;"	f	file:
+app_output_fn	app.h	/^typedef int (*app_output_fn)(packet_t *pkg);$/;"	t
+app_s	app.h	/^struct app_s {$/;"	s
+app_send	app.c	/^int app_send(packet_t *pkg)$/;"	f
+app_state	app.h	/^enum app_state {$/;"	g
+app_t	app.h	/^typedef struct app_s app_t;$/;"	t	typeref:struct:app_s
+aquasent_exit	aquasent.c	/^int aquasent_exit()$/;"	f
+aquasent_flush	aquasent.c	/^int aquasent_flush(int fd, int flag)$/;"	f
+aquasent_init	aquasent.c	/^int aquasent_init()$/;"	f
+aquasent_input	aquasent.c	/^int aquasent_input(device_t *d)$/;"	f
+aquasent_open	aquasent.c	/^int aquasent_open(char *port, char *baud)$/;"	f
+aquasent_output	aquasent.c	/^int aquasent_output(packet_t *pkg)$/;"	f
+aquasent_read_state	aquasent.c	/^enum aquasent_read_state {$/;"	g	file:
+aquasent_write_state	aquasent.c	/^enum aquasent_write_state {$/;"	g	file:
+atyp	app.c	/^        char atyp;$/;"	m	struct:socks_request_s	file:
+atyp	app.c	/^        char atyp;$/;"	m	struct:socks_response_s	file:
+baud	aquasent.c	/^        char *baud;$/;"	m	struct:device_aquasent_s	file:
+bkdr_hash	hash.c	/^unsigned int bkdr_hash(char *key, int size)$/;"	f
+buf	aquasent.c	/^        char *buf;$/;"	m	struct:dbuf_s	file:
+buf	packet.h	/^        char *buf;$/;"	m	struct:packet_s
+byte_to_hex	aquasent.c	/^int byte_to_hex(char *hex, const unsigned char *src, size_t size)$/;"	f
+cbuf	message.c	/^static cb_t *cbuf;$/;"	v	file:
+client	app.c	/^static app_t *client;$/;"	v	file:
+client_input	app.c	/^static int client_input(app_t *app)$/;"	f	file:
+client_output	app.c	/^static int client_output(packet_t *pkg)$/;"	f	file:
+close_client	app.c	/^static int close_client(packet_t *pkg)$/;"	f	file:
+cmd	app.c	/^        char cmd;$/;"	m	struct:socks_request_s	file:
+config	config.c	/^static config_t config;$/;"	v	file:
+config_add	config.c	/^int config_add(char *key, char *val)$/;"	f
+config_exit	config.c	/^int config_exit()$/;"	f
+config_find	config.c	/^char *config_find(char *key)$/;"	f
+config_init	config.c	/^config_t *config_init(char *file_name)$/;"	f
+config_read	config.c	/^int config_read()$/;"	f
+config_s	config.h	/^struct config_s {$/;"	s
+config_state	config.c	/^enum config_state {$/;"	g	file:
+config_t	config.h	/^typedef struct config_s config_t;$/;"	t	typeref:struct:config_s
+connect_client_cli	app.c	/^static int connect_client_cli(packet_t *pkg)$/;"	f	file:
+connect_client_ser	app.c	/^static int connect_client_ser(packet_t *pkg)$/;"	f	file:
+container	queue.h	7;"	d
+core_s	core.h	/^struct core_s {$/;"	s
+core_t	core.h	/^typedef struct core_s core_t;$/;"	t	typeref:struct:core_s
+crc	mac.h	/^        crc32_t    crc;$/;"	m	struct:mac_hdr_s
+crc32_t	mac.h	/^typedef uint32_t crc32_t;$/;"	t
+create_and_bind	app.c	/^static int create_and_bind(const char *port)$/;"	f	file:
+dbuf_s	aquasent.c	/^struct dbuf_s {$/;"	s	file:
+dbuf_space	aquasent.c	39;"	d	file:
+dbuf_space_len	aquasent.c	40;"	d	file:
+dbuf_t	aquasent.c	/^typedef struct dbuf_s dbuf_t;$/;"	t	typeref:struct:dbuf_s	file:
+dev	core.h	/^        device_ctl_t        *dev;$/;"	m	struct:core_s
+dev	packet.h	/^        device_t *dev;$/;"	m	struct:packet_s
+dev_exit_fn	device.h	/^typedef int (*dev_exit_fn)();$/;"	t
+dev_id_t	event.h	/^typedef int dev_id_t;$/;"	t
+dev_list	device.c	/^static queue_t *dev_list;$/;"	v	file:
+device_add	device.c	/^int device_add(device_t *dev)$/;"	f
+device_aquasent	aquasent.c	/^static device_aquasent_t device_aquasent;$/;"	v	file:
+device_aquasent_s	aquasent.c	/^struct device_aquasent_s {$/;"	s	file:
+device_aquasent_t	aquasent.c	/^typedef struct device_aquasent_s device_aquasent_t;$/;"	t	typeref:struct:device_aquasent_s	file:
+device_check_write	device.c	/^static int device_check_write()$/;"	f	file:
+device_exit	device.c	/^int device_exit()$/;"	f
+device_find_by_fd	device.c	/^static device_t *device_find_by_fd(int fd)$/;"	f	file:
+device_find_by_ip	device.c	/^device_t *device_find_by_ip(ip_addr_t addr)$/;"	f
+device_find_by_name	device.c	/^device_t *device_find_by_name(char *name)$/;"	f
+device_init	device.c	/^int device_init()$/;"	f
+device_input	device.c	/^static int device_input(event_t *ev)$/;"	f	file:
+device_input_finish	device.c	/^int device_input_finish(packet_t *pkg)$/;"	f
+device_output	device.c	/^static int device_output(event_t *ev)$/;"	f	file:
+device_output_finish	device.c	/^int device_output_finish(packet_t *pkg)$/;"	f
+device_output_finish_part	device.c	/^int device_output_finish_part(packet_t *pkg)$/;"	f
+device_s	device.h	/^struct device_s {$/;"	s
+device_send	device.c	/^int device_send(packet_t *pkg)$/;"	f
+device_t	device.h	/^typedef struct device_s device_t;$/;"	t	typeref:struct:device_s
+djb_hash	hash.c	/^unsigned int djb_hash(char *key)$/;"	f
+down	packet.h	/^        ptc_id_t down;$/;"	m	struct:packet_s
+down	protocol.h	/^        send_down_fn    down;$/;"	m	struct:ptc_s
+dst	mac.h	/^        mac_addr_t dst;$/;"	m	struct:mac_hdr_s
+ev_cb_fn	event.h	/^typedef int (*ev_cb_fn)(event_t *ev);$/;"	t
+ev_list	event.c	/^static queue_t *ev_list;$/;"	v	file:
+eve	core.h	/^        event_ctl_t         *eve;$/;"	m	struct:core_s
+event_add	event.c	/^int event_add(event_t *ev)$/;"	f
+event_create	event.h	7;"	d
+event_delete	event.c	/^int event_delete(event_t *ev)$/;"	f
+event_exit	event.c	/^int event_exit()$/;"	f
+event_find_by_fd	event.c	/^event_t *event_find_by_fd(int fd)$/;"	f
+event_init	event.c	/^int event_init()$/;"	f
+event_s	event.h	/^struct event_s {$/;"	s
+event_t	event.h	/^typedef struct event_s event_t;$/;"	t	typeref:struct:event_s
+exit	device.h	/^        dev_exit_fn exit;$/;"	m	struct:device_s
+fd	app.h	/^        int   fd;$/;"	m	struct:app_ctl_s
+fd	app.h	/^        int fd;$/;"	m	struct:app_s
+fd	device.h	/^        int fd;$/;"	m	struct:device_s
+fd	event.h	/^        dev_id_t fd;$/;"	m	struct:event_s
+file_fd	log.h	/^        FILE *file_fd;$/;"	m	struct:log_s
+file_name	config.h	/^        char *file_name;$/;"	m	struct:config_s
+file_name	log.h	/^        char *file_name;$/;"	m	struct:log_s
+find_max_fd	event.c	/^int find_max_fd()$/;"	f
+flag	device.h	/^        unsigned int flag;$/;"	m	struct:device_s
+flag	event.h	/^        int flag;$/;"	m	struct:event_s
+gateway	device.h	/^        ip_addr_t gateway;$/;"	m	struct:device_s
+handle_event	event.c	/^int handle_event(fd_set *rfd, fd_set *wfd)$/;"	f
+handle_mmoky	aquasent.c	/^int handle_mmoky()$/;"	f
+handle_mmrxd	aquasent.c	/^int handle_mmrxd()$/;"	f
+handle_mmtdn	aquasent.c	/^int handle_mmtdn()$/;"	f
+handle_tick	event.c	/^int handle_tick(struct timeval *tv)$/;"	f
+hash_a	hash.h	/^        unsigned int hash_a;$/;"	m	struct:hash_node_s
+hash_b	hash.h	/^        unsigned int hash_b;$/;"	m	struct:hash_node_s
+hash_node_s	hash.h	/^struct hash_node_s {$/;"	s
+hash_node_t	hash.h	/^typedef struct hash_node_s hash_node_t;$/;"	t	typeref:struct:hash_node_s
+hash_table	config.h	/^        hash_table_t *hash_table;$/;"	m	struct:config_s
+hash_table_add	hash.c	/^int hash_table_add(hash_table_t *table, char *key, char *val)$/;"	f
+hash_table_create	hash.c	/^hash_table_t *hash_table_create(int size)$/;"	f
+hash_table_find	hash.c	/^hash_node_t *hash_table_find(hash_table_t *table, char *key)$/;"	f
+hash_table_free	hash.c	/^int hash_table_free(hash_table_t *table)$/;"	f
+hash_table_s	hash.h	/^struct hash_table_s {$/;"	s
+hash_table_t	hash.h	/^typedef struct hash_table_s hash_table_t;$/;"	t	typeref:struct:hash_table_s
+head	protocol.c	/^static queue_t *head;$/;"	v	file:
+hex_table	aquasent.c	/^static const char hex_table[] = $/;"	v	file:
+hex_to_byte	aquasent.c	/^int hex_to_byte(char *dst, const char *hex, size_t size)$/;"	f
+hex_to_num	aquasent.c	129;"	d	file:
+id	protocol.h	/^        ptc_id_t id;$/;"	m	struct:ptc_s
+in_addr	app.h	/^        uint32_t in_addr;$/;"	m	struct:app_s
+in_port	app.h	/^        uint16_t in_port;$/;"	m	struct:app_s
+input	app.h	/^        app_input_fn  input;$/;"	m	struct:app_s
+input	device.h	/^        input_fn  input;$/;"	m	struct:device_s
+input	event.h	/^        ev_cb_fn input;$/;"	m	struct:event_s
+input_fn	device.h	/^typedef int (*input_fn)(device_t *dev);$/;"	t
+ip_addr	device.h	/^        ip_addr_t ip_addr;$/;"	m	struct:device_s
+ip_addr_t	device.h	/^typedef uint8_t ip_addr_t;$/;"	t
+is_dev_read_available	device.c	28;"	d	file:
+is_dev_write_available	device.c	29;"	d	file:
+is_event_active	event.c	16;"	d	file:
+is_event_error	event.c	19;"	d	file:
+is_event_read	event.c	17;"	d	file:
+is_event_write	event.c	18;"	d	file:
+key	hash.h	/^        char *key;$/;"	m	struct:hash_node_s
+len	aquasent.c	/^        int   len;$/;"	m	struct:dbuf_s	file:
+len	message.h	/^        int len;        \/\/ data lenght$/;"	m	struct:msg_s
+len	packet.h	/^        int   len;$/;"	m	struct:packet_s
+level	log.h	/^        int   level;$/;"	m	struct:log_s
+log	log.c	/^static log_t log;$/;"	v	file:
+log_debug	log.c	/^int log_debug(char *module, char *msg)$/;"	f
+log_error	log.c	/^int log_error(char *module, char *msg)$/;"	f
+log_exit	log.c	/^int log_exit()$/;"	f
+log_info	log.c	/^int log_info(char *module, char *msg)$/;"	f
+log_init	log.c	/^log_t *log_init(char *file_name, int level)$/;"	f
+log_msg	log.c	/^int log_msg(char *type, char *module, char *msg)$/;"	f
+log_s	log.h	/^struct log_s {$/;"	s
+log_t	log.h	/^typedef struct log_s log_t;$/;"	t	typeref:struct:log_s
+log_warn	log.c	/^int log_warn(char *module, char *msg)$/;"	f
+logf_debug	log.c	/^int logf_debug(char *module, const char *format, ...)$/;"	f
+logf_error	log.c	/^int logf_error(char *module, const char *format, ...)$/;"	f
+logf_info	log.c	/^int logf_info(char *module, const char *format, ...)$/;"	f
+logf_warn	log.c	/^int logf_warn(char *module, const char *format, ...)$/;"	f
+mac_addr	device.h	/^        mac_addr_t mac_addr;$/;"	m	struct:device_s
+mac_addr_t	device.h	/^typedef uint8_t mac_addr_t;$/;"	t
+mac_addr_t	mac.h	/^typedef uint8_t  mac_addr_t;$/;"	t
+mac_checksum	mac.c	/^int mac_checksum(char *data, size_t len, crc32_t crc)$/;"	f
+mac_exit	mac.c	/^int mac_exit()$/;"	f
+mac_hdr_s	mac.h	/^struct mac_hdr_s {$/;"	s
+mac_hdr_t	mac.h	/^typedef struct mac_hdr_s mac_hdr_t;$/;"	t	typeref:struct:mac_hdr_s
+mac_init	mac.c	/^int mac_init()$/;"	f
+mac_input	mac.c	/^int mac_input(packet_t *pkg)$/;"	f
+mac_output	mac.c	/^int mac_output(packet_t *pkg)$/;"	f
+main	core.c	/^int main(int argc, int argv)$/;"	f
+method	app.c	/^        char method;$/;"	m	struct:method_response_s	file:
+method	app.c	/^        char method[255];$/;"	m	struct:method_request_s	file:
+method_req_t	app.c	/^typedef struct method_request_s method_req_t;$/;"	t	typeref:struct:method_request_s	file:
+method_request_s	app.c	/^struct method_request_s {$/;"	s	file:
+method_res_t	app.c	/^typedef struct method_response_s method_res_t;$/;"	t	typeref:struct:method_response_s	file:
+method_response_s	app.c	/^struct method_response_s {$/;"	s	file:
+msg	message.h	/^        int msg;        \/\/ message$/;"	m	struct:msg_s
+msg_exit	message.c	/^int msg_exit()$/;"	f
+msg_get	message.h	44;"	d
+msg_init	message.c	/^int msg_init()$/;"	f
+msg_pop	message.c	/^int msg_pop(msg_t *msg, char *data)$/;"	f
+msg_push	message.c	/^int msg_push(int snd, int rcv, int msg, char *data, size_t len)$/;"	f
+msg_s	message.h	/^struct msg_s {$/;"	s
+msg_send	message.h	50;"	d
+msg_t	message.h	/^typedef struct msg_s msg_t;$/;"	t	typeref:struct:msg_s
+mtu	device.h	/^        unsigned int mtu;$/;"	m	struct:device_s
+name	device.h	/^        char name[2];$/;"	m	struct:device_s
+netmask	device.h	/^        ip_addr_t netmask;$/;"	m	struct:device_s
+new_client_cli	app.c	/^static int new_client_cli(packet_t *pkg)$/;"	f	file:
+new_client_ser	app.c	/^static int new_client_ser(packet_t *pkg)$/;"	f	file:
+next	queue.h	/^        queue_t *next;$/;"	m	struct:queue_s
+nmethods	app.c	/^        char nmethods;$/;"	m	struct:method_request_s	file:
+offsetof	queue.h	6;"	d
+output	app.h	/^        app_output_fn output;$/;"	m	struct:app_s
+output	device.h	/^        output_fn output;$/;"	m	struct:device_s
+output	event.h	/^        ev_cb_fn output;$/;"	m	struct:event_s
+output_fn	device.h	/^typedef int (*output_fn)(packet_t *pkg);$/;"	t
+packet	protocol.c	/^static packet_t packet;$/;"	v	file:
+packet_s	packet.h	/^struct packet_s {$/;"	s
+packet_t	app.h	/^typedef struct packet_s packet_t;$/;"	t	typeref:struct:packet_s
+packet_t	device.h	/^typedef struct packet_s packet_t;$/;"	t	typeref:struct:packet_s
+packet_t	packet.h	/^typedef struct packet_s packet_t;$/;"	t	typeref:struct:packet_s
+pdu	packet.h	/^        char *pdu;$/;"	m	struct:packet_s
+pkg_cache	aquasent.c	/^static packet_t *pkg_cache;$/;"	v	file:
+port	app.c	/^        uint16_t port;$/;"	m	struct:socks_request_s	file:
+port	app.c	/^        uint16_t port;$/;"	m	struct:socks_response_s	file:
+port	app.h	/^        char *port;$/;"	m	struct:app_ctl_s
+port	aquasent.c	/^        char *port;$/;"	m	struct:device_aquasent_s	file:
+prev	queue.h	/^        queue_t *prev;$/;"	m	struct:queue_s
+ptc	event.h	/^        ptc_id_t ptc;$/;"	m	struct:tick_s
+ptc_add	protocol.c	/^int ptc_add(ptc_t *ptc)$/;"	f
+ptc_ctl	protocol.c	/^static ptc_ctl_t ptc_ctl;$/;"	v	file:
+ptc_find	protocol.c	/^ptc_t *ptc_find(ptc_id_t id)$/;"	f
+ptc_id_t	event.h	/^typedef uint8_t ptc_id_t;$/;"	t
+ptc_id_t	mac.h	/^typedef uint8_t  ptc_id_t;$/;"	t
+ptc_id_t	protocol.h	/^typedef uint8_t ptc_id_t;$/;"	t
+ptc_init	protocol.c	/^ptc_ctl_t *ptc_init()$/;"	f
+ptc_notice_receive	protocol.c	/^int ptc_notice_receive(int sender, int message, char *data)$/;"	f
+ptc_s	protocol.h	/^struct ptc_s {$/;"	s
+ptc_t	protocol.h	/^typedef struct ptc_s ptc_t;$/;"	t	typeref:struct:ptc_s
+queue	app.h	/^        queue_t queue;$/;"	m	struct:app_s
+queue	device.h	/^        queue_t queue;$/;"	m	struct:device_s
+queue	event.h	/^        queue_t queue;$/;"	m	struct:event_s
+queue	event.h	/^        queue_t queue;$/;"	m	struct:tick_s
+queue	packet.h	/^        queue_t queue;$/;"	m	struct:packet_s
+queue	protocol.h	/^        queue_t queue;$/;"	m	struct:ptc_s
+queue_create	queue.h	16;"	d
+queue_data	queue.h	65;"	d
+queue_delete	queue.h	49;"	d
+queue_empty	queue.h	25;"	d
+queue_first	queue.h	55;"	d
+queue_foreach	queue.h	68;"	d
+queue_init	queue.h	19;"	d
+queue_insert	queue.h	35;"	d
+queue_insert_after	queue.h	27;"	d
+queue_insert_head	queue.h	38;"	d
+queue_insert_tail	queue.h	41;"	d
+queue_last	queue.h	57;"	d
+queue_next	queue.h	61;"	d
+queue_prev	queue.h	63;"	d
+queue_s	queue.h	/^struct queue_s {$/;"	s
+queue_sentinel	queue.h	59;"	d
+queue_t	queue.h	/^typedef struct queue_s queue_t;$/;"	t	typeref:struct:queue_s
+rbuf	aquasent.c	/^static dbuf_t rbuf;$/;"	v	file:
+rcv	message.h	/^        int rcv;        \/\/ receiver$/;"	m	struct:msg_s
+read_state	aquasent.c	/^static enum aquasent_read_state read_state;$/;"	v	typeref:enum:aquasent_read_state	file:
+receive_device_pkg	protocol.c	/^int receive_device_pkg(packet_t *pkg)$/;"	f
+ref	packet.h	/^        int   ref;$/;"	m	struct:packet_s
+rep	app.c	/^        char rep;$/;"	m	struct:socks_response_s	file:
+requests	client.py	/^import requests$/;"	i
+rsv	app.c	/^        char rsv;$/;"	m	struct:socks_request_s	file:
+rsv	app.c	/^        char rsv;$/;"	m	struct:socks_response_s	file:
+s_close	app.h	/^        s_close,$/;"	e	enum:app_state
+s_comma_after_mmerr	aquasent.c	/^        s_comma_after_mmerr,$/;"	e	enum:aquasent_read_state	file:
+s_comma_after_mmerr_cmd	aquasent.c	/^        s_comma_after_mmerr_cmd,$/;"	e	enum:aquasent_read_state	file:
+s_comma_after_mmoky	aquasent.c	/^        s_comma_after_mmoky,$/;"	e	enum:aquasent_read_state	file:
+s_comma_after_mmoky_cmd	aquasent.c	/^        s_comma_after_mmoky_cmd,$/;"	e	enum:aquasent_read_state	file:
+s_comma_after_mmrxd	aquasent.c	/^        s_comma_after_mmrxd,$/;"	e	enum:aquasent_read_state	file:
+s_comma_after_mmrxd_dst	aquasent.c	/^        s_comma_after_mmrxd_dst,$/;"	e	enum:aquasent_read_state	file:
+s_comma_after_mmrxd_src	aquasent.c	/^        s_comma_after_mmrxd_src,$/;"	e	enum:aquasent_read_state	file:
+s_comma_after_mmtdn	aquasent.c	/^        s_comma_after_mmtdn,$/;"	e	enum:aquasent_read_state	file:
+s_comma_after_mmtdn_result	aquasent.c	/^        s_comma_after_mmtdn_result,$/;"	e	enum:aquasent_read_state	file:
+s_comment	config.c	/^        s_comment,$/;"	e	enum:config_state	file:
+s_comment_end	config.c	/^        s_comment_end,$/;"	e	enum:config_state	file:
+s_comment_start	config.c	/^        s_comment_start,$/;"	e	enum:config_state	file:
+s_connected	app.h	/^        s_connected,$/;"	e	enum:app_state
+s_cr	config.c	/^        s_cr,$/;"	e	enum:config_state	file:
+s_cr_after_mmerr	aquasent.c	/^        s_cr_after_mmerr,$/;"	e	enum:aquasent_read_state	file:
+s_cr_after_mmoky	aquasent.c	/^        s_cr_after_mmoky,$/;"	e	enum:aquasent_read_state	file:
+s_cr_after_mmrxd	aquasent.c	/^        s_cr_after_mmrxd,$/;"	e	enum:aquasent_read_state	file:
+s_cr_after_mmtdn	aquasent.c	/^        s_cr_after_mmtdn,$/;"	e	enum:aquasent_read_state	file:
+s_dollar	aquasent.c	/^        s_dollar,$/;"	e	enum:aquasent_read_state	file:
+s_eof	config.c	/^        s_eof,$/;"	e	enum:config_state	file:
+s_init	aquasent.c	/^        s_init,$/;"	e	enum:aquasent_read_state	file:
+s_key	config.c	/^        s_key,$/;"	e	enum:config_state	file:
+s_key_end	config.c	/^        s_key_end,$/;"	e	enum:config_state	file:
+s_key_start	config.c	/^        s_key_start,$/;"	e	enum:config_state	file:
+s_lf	config.c	/^        s_lf,$/;"	e	enum:config_state	file:
+s_m	aquasent.c	/^        s_m,$/;"	e	enum:aquasent_read_state	file:
+s_mm	aquasent.c	/^        s_mm,$/;"	e	enum:aquasent_read_state	file:
+s_mme	aquasent.c	/^        s_mme,$/;"	e	enum:aquasent_read_state	file:
+s_mmer	aquasent.c	/^        s_mmer,$/;"	e	enum:aquasent_read_state	file:
+s_mmerr	aquasent.c	/^        s_mmerr,$/;"	e	enum:aquasent_read_state	file:
+s_mmerr_cmd	aquasent.c	/^        s_mmerr_cmd,$/;"	e	enum:aquasent_read_state	file:
+s_mmerr_code	aquasent.c	/^        s_mmerr_code,$/;"	e	enum:aquasent_read_state	file:
+s_mmo	aquasent.c	/^        s_mmo,$/;"	e	enum:aquasent_read_state	file:
+s_mmok	aquasent.c	/^        s_mmok,$/;"	e	enum:aquasent_read_state	file:
+s_mmoky	aquasent.c	/^        s_mmoky,$/;"	e	enum:aquasent_read_state	file:
+s_mmoky_cmd	aquasent.c	/^        s_mmoky_cmd,$/;"	e	enum:aquasent_read_state	file:
+s_mmr	aquasent.c	/^        s_mmr,$/;"	e	enum:aquasent_read_state	file:
+s_mmrx	aquasent.c	/^        s_mmrx,$/;"	e	enum:aquasent_read_state	file:
+s_mmrxd	aquasent.c	/^        s_mmrxd,$/;"	e	enum:aquasent_read_state	file:
+s_mmrxd_data	aquasent.c	/^        s_mmrxd_data,$/;"	e	enum:aquasent_read_state	file:
+s_mmrxd_dst	aquasent.c	/^        s_mmrxd_dst,$/;"	e	enum:aquasent_read_state	file:
+s_mmrxd_src	aquasent.c	/^        s_mmrxd_src,$/;"	e	enum:aquasent_read_state	file:
+s_mmt	aquasent.c	/^        s_mmt,$/;"	e	enum:aquasent_read_state	file:
+s_mmtd	aquasent.c	/^        s_mmtd,$/;"	e	enum:aquasent_read_state	file:
+s_mmtdn	aquasent.c	/^        s_mmtdn,$/;"	e	enum:aquasent_read_state	file:
+s_mmtdn_pn	aquasent.c	/^        s_mmtdn_pn,$/;"	e	enum:aquasent_read_state	file:
+s_mmtdn_result	aquasent.c	/^        s_mmtdn_result,$/;"	e	enum:aquasent_read_state	file:
+s_ready	aquasent.c	/^        s_ready,$/;"	e	enum:aquasent_write_state	file:
+s_space_after_key	config.c	/^        s_space_after_key,$/;"	e	enum:config_state	file:
+s_space_after_val	config.c	/^        s_space_after_val,$/;"	e	enum:config_state	file:
+s_start	aquasent.c	/^        s_start,$/;"	e	enum:aquasent_read_state	file:
+s_val	config.c	/^        s_val,$/;"	e	enum:config_state	file:
+s_val_end	config.c	/^        s_val_end,$/;"	e	enum:config_state	file:
+s_val_start	config.c	/^        s_val_start,$/;"	e	enum:config_state	file:
+s_wait_mmoky	aquasent.c	/^        s_wait_mmoky,$/;"	e	enum:aquasent_write_state	file:
+s_wait_mmtdn	aquasent.c	/^        s_wait_mmtdn,$/;"	e	enum:aquasent_write_state	file:
+s_wait_request	app.h	/^        s_wait_request,$/;"	e	enum:app_state
+send_down_fn	protocol.h	/^typedef int (*send_down_fn)(packet_t *pkg);$/;"	t
+send_up_fn	protocol.h	/^typedef int (*send_up_fn)(packet_t *pkg);$/;"	t
+set_dev_read_available	device.h	17;"	d
+set_dev_write_available	device.h	18;"	d
+set_event_active	event.h	15;"	d
+set_event_error	event.h	18;"	d
+set_event_read	event.h	16;"	d
+set_event_write	event.h	17;"	d
+sighandler	core.c	/^void sighandler(int sig)$/;"	f
+size	hash.h	/^        int size;$/;"	m	struct:hash_table_s
+snd	message.h	/^        int snd;        \/\/ sender$/;"	m	struct:msg_s
+socket	client.py	/^import socket$/;"	i
+socks	client.py	/^import socks$/;"	i
+socks_req_t	app.c	/^typedef struct socks_request_s socks_req_t;$/;"	t	typeref:struct:socks_request_s	file:
+socks_request_s	app.c	/^struct socks_request_s {$/;"	s	file:
+socks_res_t	app.c	/^typedef struct socks_response_s socks_res_t;$/;"	t	typeref:struct:socks_response_s	file:
+socks_response_s	app.c	/^struct socks_response_s {$/;"	s	file:
+src	mac.h	/^        mac_addr_t src;$/;"	m	struct:mac_hdr_s
+state	app.h	/^        enum app_state state;$/;"	m	struct:app_s	typeref:enum:app_s::app_state
+state	device.h	/^        unsigned int state;$/;"	m	struct:device_s
+table	hash.h	/^        hash_node_t *table;$/;"	m	struct:hash_table_s
+tc_cb_fn	event.h	/^typedef int (*tc_cb_fn)(tick_t *tc);$/;"	t
+tc_list	event.c	/^static queue_t *tc_list;$/;"	v	file:
+tick_add	event.c	/^int tick_add(tick_t *tc)$/;"	f
+tick_create	event.h	8;"	d
+tick_delete	event.c	/^int tick_delete(tick_t *tc)$/;"	f
+tick_s	event.h	/^struct tick_s {$/;"	s
+tick_t	event.h	/^typedef struct tick_s tick_t;$/;"	t	typeref:struct:tick_s
+time	event.h	/^        int time;       \/\/ ms$/;"	m	struct:tick_s
+timeout	event.h	/^        tc_cb_fn timeout;$/;"	m	struct:tick_s
+tot_len	aquasent.c	/^        int   tot_len;$/;"	m	struct:dbuf_s	file:
+tot_len	packet.h	/^        int   tot_len;$/;"	m	struct:packet_s
+trans_data	app.c	/^static int trans_data(packet_t *pkg)$/;"	f	file:
+type	app.c	/^        uint8_t type;$/;"	m	struct:app_hdr_s	file:
+unset_dev_read_available	device.h	20;"	d
+unset_dev_write_available	device.h	21;"	d
+unset_event_active	event.h	20;"	d
+unset_event_error	event.h	23;"	d
+unset_event_read	event.h	21;"	d
+unset_event_write	event.h	22;"	d
+up	mac.h	/^        ptc_id_t   up;$/;"	m	struct:mac_hdr_s
+up	packet.h	/^        ptc_id_t up;$/;"	m	struct:packet_s
+up	protocol.h	/^        send_up_fn      up;$/;"	m	struct:ptc_s
+val	hash.h	/^        char *val;$/;"	m	struct:hash_node_s
+ver	app.c	/^        char ver;$/;"	m	struct:method_request_s	file:
+ver	app.c	/^        char ver;$/;"	m	struct:method_response_s	file:
+ver	app.c	/^        char ver;$/;"	m	struct:socks_request_s	file:
+ver	app.c	/^        char ver;$/;"	m	struct:socks_response_s	file:
+wait_select	event.c	/^int wait_select()$/;"	f
+wbuf	aquasent.c	/^static dbuf_t wbuf;$/;"	v	file:
+write_list	app.c	/^static queue_t *write_list;$/;"	v	file:
+write_list	device.c	/^static queue_t *write_list;$/;"	v	file:
+write_state	aquasent.c	/^static enum aquasent_write_state write_state;$/;"	v	typeref:enum:aquasent_write_state	file:

@@ -1,0 +1,21 @@
+[2015-10-23 15:55:41] [EVENT]	INFO  -- Initialize the EVENT SYSTEM successed.
+[2015-10-23 15:55:55] [DEVICE]	INFO  -- Initialize the DEVICE MODULE successed.
+[2015-10-23 15:57:34] [EVENT]	INFO  -- Initialize the EVENT SYSTEM successed.
+[2015-10-23 15:57:44] [DEVICE]	INFO  -- Initialize the DEVICE MODULE successed.
+[2015-10-23 15:59:04] [AQUASENT]	INFO  -- Open aquasent with port /dev/ttyUSB0 and baud rate 115200 successed.
+[2015-10-23 16:01:19] [EVENT]	DEBUG -- Successed to add a event.
+[2015-10-23 16:01:22] [DEVICE]	DEBUG -- Successed to add an device.
+[2015-10-23 16:01:34] [AQUASENT]	INFO  -- Initialize the AQUASENT MODULE successed.
+[2015-10-23 16:06:48] [EVENT]	INFO  -- Initialize the EVENT SYSTEM successed.
+[2015-10-23 16:06:48] [DEVICE]	INFO  -- Initialize the DEVICE MODULE successed.
+[2015-10-23 16:06:48] [AQUASENT]	INFO  -- Open aquasent with port /dev/ttyUSB0 and baud rate 115200 successed.
+[2015-10-23 16:07:17] [EVENT]	DEBUG -- Successed to add a event.
+[2015-10-23 16:07:17] [DEVICE]	DEBUG -- Successed to add an device.
+[2015-10-23 16:07:17] [AQUASENT]	INFO  -- Initialize the AQUASENT MODULE successed.
+[2015-10-23 19:17:19] [EVENT]	INFO  -- Initialize the EVENT SYSTEM successed.
+[2015-10-23 19:17:19] [DEVICE]	INFO  -- Initialize the DEVICE MODULE successed.
+[2015-10-23 19:17:19] [AQUASENT]	INFO  -- Open aquasent with port /dev/ttyUSB0 and baud rate 115200 successed.
+[2015-10-23 19:17:19] [EVENT]	DEBUG -- Successed to add a event.
+[2015-10-23 19:17:19] [DEVICE]	DEBUG -- Successed to add an device.
+[2015-10-23 19:17:19] [AQUA]	INFO  -- Initialize the AQUASENT MODULE successed.
+[2015-10-23 19:17:52] [APP]	ERROR -- Success
